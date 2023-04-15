@@ -13,17 +13,17 @@ Assalam'mulaikum Kembali lagi dengan saya di tugas peratikum kali ini
 Saya akan memberikan praktik memalui hasil run dari gambar kalian bisa jika benasaran bisa langsung mendownload file coding dan coba sendiri kodingnya.
 </p>
 
-<p>
-Praktikum 6: OOP Lanjutan
-• Copy file library (class) dari praktikum 5 dan letakkan pada folder 
-class.
-• Buat file template yang berisi template dan css untuk header, footer 
-dan menu sidebar.
-• Buat modul artikel yang berisi CRUD dengan memanfaatkan library 
-database dan form tersbut.
-• File index.php berisi proses routing aplikasi dan dikombinasikan
-dengan penggunaan mod_rewrite pada file .htaccess
-</p>
+
+#### Praktikum 6: OOP Lanjutan
+
+##### Copy file library (class) dari praktikum 5 dan letakkan pada folder class.
+
+###### Buat file template yang berisi template dan css untuk header, dan footer.
+
+###### Buat modul artikel yang berisi CRUD dengan memanfaatkan library database dan form tersbut.
+
+###### File index.php berisi proses routing aplikasi dan dikombinasikan dengan penggunaan mod_rewrite pada file .htaccess
+
 
 <p>Home</P>
 
