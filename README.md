@@ -33,6 +33,8 @@ Saya akan memberikan praktik memalui hasil run dari gambar kalian bisa jika bena
 
 ![Gambar 2](screenshoot/2.JPG)
 
+![Gambar 5](screenshoot/5.JPG)
+
 <p>Edit</P>
 
 ![Gambar 3](screenshoot/3.JPG)
