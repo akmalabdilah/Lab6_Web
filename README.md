@@ -37,9 +37,6 @@ Saya akan memberikan praktik memalui hasil run dari gambar kalian bisa jika bena
 
 ![Gambar 3](screenshoot/3.JPG)
 
-<p>Hapus</P>
-
-![Gambar 4](screenshoot/4.JPG)
 
 <p>
 Jadi kali ini saya hanya mengeksekusi kode aja jika kalian ingin penjelasan bisa cari di flatfom lain kutang lebi saya ucapkan!
