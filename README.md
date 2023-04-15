@@ -45,7 +45,7 @@ Saya akan memberikan praktik memalui hasil run dari gambar kalian bisa jika bena
 
 <p>Hapus</P>
 
-![Gambar 1](screenshoot/1.JPG)
+![Gambar 6](screenshoot/6.JPG)
 
 <p>
 Jadi kali ini saya hanya mengeksekusi kode aja jika kalian ingin penjelasan bisa cari di flatfom lain kutang lebi saya ucapkan!
